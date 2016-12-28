@@ -7,3 +7,4 @@ var str = "Hello, playground"
 
 print("task1")
 
+print("task2")
